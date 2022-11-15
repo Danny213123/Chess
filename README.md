@@ -13,7 +13,7 @@ Algoritmhs [depth 5 - 7]
 
 TODO:
   - Iterative Deepening
-  - Move ordering
+  - Principal Variation Move ordering
   - Opening moves
   - End Game
   - King security
