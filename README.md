@@ -4,7 +4,7 @@ Functions:
   - Castle
   - All piecem oves
 
-Algoritmhs
+Algoritmhs [Defacto Max Depth = 5 | Theoretical Max Depth = 7]
   - Minimax
   - Negamax
   - Minimax [AlphaBeta pruning]
