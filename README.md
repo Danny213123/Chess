@@ -2,7 +2,7 @@
 Functions:
   - Enpassant
   - Castle
-  - All piecem oves
+  - All piece moves
 
 Algoritmhs [Defacto Max Depth = 5 | Theoretical Max Depth = 7]
   - Minimax
