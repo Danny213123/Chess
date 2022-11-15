@@ -4,10 +4,9 @@ Functions:
   - Castle
   - All piece moves
 
-Algoritmhs [depth 5 - 7]
+Algorithms
   - Minimax
   - Negamax
-  - Minimax [AlphaBeta pruning]
   - Negamax [AlphaBeta pruning]
   - Negamax [AlphaBeta pruning & transpositional tables]
 
