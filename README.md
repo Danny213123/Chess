@@ -14,4 +14,8 @@ Algoritmhs [depth 5 - 7]
 TODO:
   - Iterative Deepening
   - Move ordering
+  - Opening moves
+  - End Game
+  - King security
+  - Pawn chains
   - Engine improvements
