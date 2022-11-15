@@ -11,5 +11,7 @@ Algoritmhs [depth 5 - 7]
   - Negamax [AlphaBeta pruning]
   - Negamax [AlphaBeta pruning & transpositional tables]
 
-
-
+TODO:
+  - Iterative Deepening
+  - Move ordering
+  - Engine improvements
