@@ -79,4 +79,23 @@ Node Calculations [depth 6]
     - 7s
     - 27,092
 
+Node Calculations [depth 7]
+  - Negamax 
+    - Time Exceeded
+  - Negamax [AB prune]
+    - Time Exceeded
+  - Negamax [AB prune | transposition table]
+    - 46s
+    - 164,632
+
+Node Calculations [depth 8]
+  - Negamax 
+    - Time Exceeded
+  - Negamax [AB prune]
+    - Time Exceeded
+  - Negamax [AB prune | transposition table]
+    - 206s
+    - 707,376
+
+
 
