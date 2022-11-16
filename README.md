@@ -12,7 +12,7 @@ Algorithms
 
 TODO:
   - Iterative Deepening
-  - Principal Variation Move ordering
+  - Principle Variation Move ordering
   - Opening moves
   - End Game
   - King security
