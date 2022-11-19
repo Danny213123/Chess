@@ -1,6 +1,4 @@
-**Speed Calculations on first move d4**
-
-Standard Deviation: time +- (time*(1/2))
+**Speed Calculations at first move d4**
 
 Node Calculations [depth 2]
   - Negamax
